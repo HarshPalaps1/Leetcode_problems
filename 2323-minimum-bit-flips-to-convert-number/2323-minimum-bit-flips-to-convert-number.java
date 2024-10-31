@@ -1,7 +1,7 @@
 class Solution {
 
     public static int[] binary(int num ){
-        int[] bi_num=new int[100]; 
+        int[] bi_num=new int[30]; 
         int position =0;
     
         while(num>0){
