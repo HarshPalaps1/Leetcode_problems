@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0268-missing-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
@@ -18,15 +19,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0268-missing-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0268-missing-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
 |  |
@@ -47,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -70,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0268-missing-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
