@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0268-missing-number) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0268-missing-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/1046-max-consecutive-ones-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
