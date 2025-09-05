@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0268-missing-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0268-missing-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Math
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0268-missing-number) |
 ## Counting
 |  |
