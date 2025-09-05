@@ -1,7 +1,7 @@
 class Solution:
     def maxProfit(self, prices):
-        buy = 0  # Buy
-        sell = 1  # Sell
+        buy = 0  
+        sell = 1  
         max_profit = 0
         while sell < len(prices):
             current_profit = prices[sell] - prices[buy]
