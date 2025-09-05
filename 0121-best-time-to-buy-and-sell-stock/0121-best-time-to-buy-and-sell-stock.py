@@ -1,0 +1,13 @@
+class Solution:
+    def maxProfit(self, prices):
+        buy = 0  # Buy
+        sell = 1  # Sell
+        max_profit = 0
+        while sell < len(prices):
+            current_profit = prices[sell] - prices[buy]
+            if prices[buy] < prices[sell]:
+                max_profit = max(current_profit, max_profit)
+            else:
+                buy = sell
+            sell += 1
+        return max_profit
