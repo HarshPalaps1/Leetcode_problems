@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0078-subsets) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0268-missing-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
