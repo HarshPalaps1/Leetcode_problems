@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/0268-missing-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/HarshPalaps1/Leetcode_problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
